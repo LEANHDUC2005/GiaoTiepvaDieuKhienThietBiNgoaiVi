@@ -1,0 +1,36 @@
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\bin\Debug\USBNC.exe.config
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\bin\Debug\USBNC.exe
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\bin\Debug\USBNC.pdb
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\obj\Debug\USBNC.csprojResolveAssemblyReference.cache
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\obj\Debug\USBNC.Properties.Resources.resources
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\obj\Debug\USBNC.csproj.GenerateResource.Cache
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\obj\Debug\USBNC.exe
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\obj\Debug\USBNC.pdb
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\bin\Debug\UsbLibrary.dll
+D:\Downloads\Visual Studio 2012\USBNC\USBNC\obj\Debug\USBNC.Form_SampleCom.resources
+D:\HOANGKHAI\USBNC\USBNC\bin\Debug\USBNC.exe.config
+D:\HOANGKHAI\USBNC\USBNC\obj\Debug\USBNC.exe
+D:\HOANGKHAI\USBNC\USBNC\obj\Debug\USBNC.pdb
+D:\gtvdk\BAITAP\USBNC\USBNC\bin\Debug\USBNC.exe.config
+D:\gtvdk\BAITAP\USBNC\USBNC\obj\Debug\USBNC.exe
+D:\gtvdk\BAITAP\USBNC\USBNC\obj\Debug\USBNC.pdb
+D:\gtvdk\BAITAP\USBNC\USBNC\bin\Debug\USBNC.exe
+D:\gtvdk\BAITAP\USBNC\USBNC\bin\Debug\USBNC.pdb
+D:\gtvdk\BAITAP\USBNC\USBNC\bin\Debug\UsbLibrary.dll
+D:\gtvdk\BAITAP\USBNC\USBNC\obj\Debug\USBNC.csprojResolveAssemblyReference.cache
+D:\gtvdk\BAITAP\USBNC\USBNC\obj\Debug\USBNC.Form_SampleCom.resources
+D:\gtvdk\BAITAP\USBNC\USBNC\obj\Debug\USBNC.Properties.Resources.resources
+D:\gtvdk\BAITAP\USBNC\USBNC\obj\Debug\USBNC.csproj.GenerateResource.Cache
+D:\File hoc tap\USBNC\USBNC\bin\Debug\USBNC.exe.config
+D:\File hoc tap\USBNC\USBNC\bin\Debug\USBNC.exe
+D:\File hoc tap\USBNC\USBNC\bin\Debug\USBNC.pdb
+D:\File hoc tap\USBNC\USBNC\bin\Debug\UsbLibrary.dll
+D:\File hoc tap\USBNC\USBNC\obj\Debug\USBNC.csproj.AssemblyReference.cache
+D:\File hoc tap\USBNC\USBNC\obj\Debug\USBNC.exe.config
+D:\File hoc tap\USBNC\USBNC\obj\Debug\USBNC.Form_SampleCom.resources
+D:\File hoc tap\USBNC\USBNC\obj\Debug\USBNC.Properties.Resources.resources
+D:\File hoc tap\USBNC\USBNC\obj\Debug\USBNC.csproj.GenerateResource.cache
+D:\File hoc tap\USBNC\USBNC\obj\Debug\USBNC.csproj.CoreCompileInputs.cache
+D:\File hoc tap\USBNC\USBNC\obj\Debug\USBNC.csproj.Up2Date
+D:\File hoc tap\USBNC\USBNC\obj\Debug\USBNC.exe
+D:\File hoc tap\USBNC\USBNC\obj\Debug\USBNC.pdb
